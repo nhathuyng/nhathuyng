@@ -1,9 +1,12 @@
 ### Hello, I'm Huy 😇
-<br/>
+
+
+
+
 ### I'm a self-taught Frontend Developer, looking for an opportunity to become a FullStack Developer.
-<br/>
-- 🚀  2020 Goals: Get a Job as a Developer
-<br/>
+
+🚀  2020 Goals: Get a Job as a Developer
+
 ### Languages and Tools:
 <br/>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
