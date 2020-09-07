@@ -1,6 +1,6 @@
 ### Hello, I'm Huy 😇
 
-### I'm a a self-taught Frontend Developer - looking for an opportunity to become a FullStack Developer
+### I'm a self-taught Frontend Developer - looking for an opportunity to become a FullStack Developer
 
 - 🚀 2020 Goals: Get a Job as a Developer
 
