@@ -2,7 +2,7 @@
 
 ### I'm a self-taught Frontend Developer, looking for an opportunity to become a FullStack Developer.
 
-- 🚀 2020 Goals: Get a Job as a Developer
+- 🚀  2020 Goals: Get a Job as a Developer
 
 ### Languages and Tools:
 
